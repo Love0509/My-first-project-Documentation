@@ -12,5 +12,5 @@ I have learnt quite a number of things ranging from MS excel to SQL to powerbi a
   - For data collection
   - For data cleaning 
 - SQL server (for quering and analysis)
-- Ms powerbi (for creatng a report)
-- Ms power point (foR presentation)
+- Ms powerbi (for creating a report)
+- Ms power point (for presentation)
