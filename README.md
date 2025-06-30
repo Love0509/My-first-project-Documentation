@@ -8,7 +8,7 @@ I have learnt quite a number of things ranging from MS excel to SQL to powerbi a
 ### Project overview
 
 ### Tools used
-- Ms excel [Downlod here](https://www.microsoft.com)
+- Ms excel [Download here](https://www.microsoft.com)
   - For data collection
   - For data cleaning 
 - SQL server (for quering and analysis)
